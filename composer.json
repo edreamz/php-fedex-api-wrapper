@@ -1,8 +1,8 @@
 {
-    "name": "umpirsky/php-fedex-api-wrapper",
+    "name": "edreamz/php-fedex-api-wrapper",
     "description": "API Wrapper for Fedex web services",
     "keywords": ["shipping","fedex","soap"],
-    "homepage": "https://github.com/umpirsky/php-fedex-api-wrapper",
+    "homepage": "https://github.com/edreamz/php-fedex-api-wrapper",
     "type": "library",
     "license": "MIT",
     "authors": [
