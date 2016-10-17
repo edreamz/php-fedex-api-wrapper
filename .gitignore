@@ -1,2 +1,4 @@
 examples/credentials.php
 vendor
+.git
+.idea
