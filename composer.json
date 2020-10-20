@@ -22,8 +22,6 @@
         "symfony/console": "5.*"
     },
     "autoload": {
-        "psr-4": {
-            "FedEx\\": "src/"
-        }
+        "psr-0": {"FedEx": "src/"}
     }
 }
